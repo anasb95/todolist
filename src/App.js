@@ -1,4 +1,4 @@
-// test protection branche
+// Simulation persistance redux
 function App() {
   return (
     <div>
@@ -6,6 +6,7 @@ function App() {
       <p>Vue principale - version 1</p>
       <input type="text" placeholder="Ajouter une tâche..." />
       <button>Ajouter</button>
+      <p>Persistance des données activée</p>
     </div>
   );
 }
